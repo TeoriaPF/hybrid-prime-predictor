@@ -71,7 +71,8 @@ python generate_plots.py
 python super_hybrid_sieve.py
 python ml_predictor.py
 ```
-
+## 🔬 Methodology & AI Collaboration Statement
+This project is the result of independent conceptual research led by the author’s original mathematical intuition and experimental hypotheses regarding prime gap behaviors. While the core breakthroughs, transition observations, and structural logic were independently conceptualized by the author, Advanced AI (Large Language Models) was utilized as a technical assistant to systematically write, optimize, and document the Python code implementations, benchmark structures, and dataset evaluations.
 ---
 
 ## 📜 Research License
